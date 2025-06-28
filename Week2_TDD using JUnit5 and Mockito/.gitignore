@@ -1,0 +1,14 @@
+# Ignore Maven build output folders
+target/
+**/target/
+
+# Ignore common IDE folders
+.vscode/
+.idea/
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
+
+# Ignore zip files
+*.zip
